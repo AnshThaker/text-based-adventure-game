@@ -1,0 +1,4 @@
+blessed
+playsound==1.2.2
+pygame
+inputimeout
